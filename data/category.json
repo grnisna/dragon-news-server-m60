@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "name":"Breaking News"
+    },
+    {
+        "id":"2",
+        "name":"Breaking News"
+    },
+    {
+        "id":"3",
+        "name":"Breaking News"
+    },
+    {
+        "id":"4",
+        "name":"Regular News"
+    },
+    {
+        "id":"5",
+        "name":"Sports News"
+    },
+    {
+        "id":"6",
+        "name":"EnterTainment News"
+    },
+    {
+        "id":"7",
+        "name":"Cultural News"
+    },
+    {
+        "id":"8",
+        "name":"Art News"
+    },
+    {
+        "id":"9",
+        "name":"All News"
+    }
+]
